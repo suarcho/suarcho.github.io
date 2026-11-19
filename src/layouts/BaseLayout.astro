@@ -19,7 +19,7 @@ const {
   type = 'website',
 } = Astro.props;
 
-const site = Astro.site ?? new URL('https://suarch-dev.github.io');
+const site = Astro.site ?? new URL('https://suarcho.github.io');
 const canonical = new URL(canonicalPath, site).toString();
 const alternate = alternatePath ? new URL(alternatePath, site).toString() : undefined;
 const person = {
@@ -36,7 +36,7 @@ const person = {
   },
   sameAs: [
     'https://www.linkedin.com/in/arnoldcs97/',
-    'https://github.com/suarch-dev',
+    'https://github.com/suarcho',
   ],
   knowsAbout: [
     'VoIP',

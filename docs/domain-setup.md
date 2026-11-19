@@ -1,13 +1,13 @@
 # GitHub Pages and `suarch.is-a.dev`
 
-The site is configured as a GitHub Pages **user site** at `https://suarch-dev.github.io/`, using the `suarch-dev.github.io` repository. The free `suarch.is-a.dev` address is a later step: it must first be approved through the is-a.dev registration project. The site intentionally does not publish a `CNAME` file before that DNS registration is approved, so the initial GitHub Pages address remains usable.
+The site is configured as a GitHub Pages **user site** at `https://suarcho.github.io/`, using the `suarcho.github.io` repository. The free `suarch.is-a.dev` address is a later step: it must first be approved through the is-a.dev registration project. The site intentionally does not publish a `CNAME` file before that DNS registration is approved, so the initial GitHub Pages address remains usable.
 
 ## First deployment
 
-1. Push this project's `main` branch to the public **`suarch-dev.github.io`** repository in the `suarch-dev` GitHub account.
+1. Push this project's `main` branch to the public **`suarcho.github.io`** repository in the `suarcho` GitHub account.
 2. Let `.github/workflows/pages.yml` build and deploy the site.
 3. If GitHub asks for a Pages source, open **Settings → Pages** and select **GitHub Actions**.
-4. The initial site URL is `https://suarch-dev.github.io/` once the workflow succeeds.
+4. The initial site URL is `https://suarcho.github.io/` once the workflow succeeds.
 
 ## Request the free subdomain
 
@@ -18,10 +18,10 @@ For reference only, the domain-record format for a GitHub Pages subdomain identi
 ```json
 {
   "owner": {
-    "username": "suarch-dev"
+    "username": "suarcho"
   },
   "records": {
-    "CNAME": "suarch-dev.github.io"
+    "CNAME": "suarcho.github.io"
   }
 }
 ```

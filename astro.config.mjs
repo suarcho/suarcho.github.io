@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://suarch-dev.github.io',
+  site: 'https://suarcho.github.io',
   trailingSlash: 'always',
 });

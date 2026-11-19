@@ -4,7 +4,7 @@ The site is live. The goal now is to make it easy for a recruiter to find it, op
 
 ## Done in the repository
 
-- [x] Portfolio live at `https://suarch-dev.github.io/` (English) and `https://suarch-dev.github.io/es/` (Spanish).
+- [x] Portfolio live at `https://suarcho.github.io/` (English) and `https://suarcho.github.io/es/` (Spanish).
 - [x] Both CV PDFs include the portfolio URL.
 - [x] The web CV includes the portfolio URL.
 - [x] GitHub profile README points to the portfolio.
@@ -13,17 +13,17 @@ The site is live. The goal now is to make it easy for a recruiter to find it, op
 
 ### LinkedIn
 
-1. Open **Contact info → Website** and add `https://suarch-dev.github.io/` with the label **Portfolio**.
+1. Open **Contact info → Website** and add `https://suarcho.github.io/` with the label **Portfolio**.
 2. In **Featured**, add the same link so it is visible near the top of your profile.
 3. Keep the headline aligned with the site: IT support, VoIP, networking, NOC or junior systems, with Platform Engineering as the direction.
 4. Add the portfolio link to your LinkedIn “About” section if there is room.
 
 ### Google Search Console
 
-1. Open <https://search.google.com/search-console/> and add a **URL prefix** property: `https://suarch-dev.github.io/`.
+1. Open <https://search.google.com/search-console/> and add a **URL prefix** property: `https://suarcho.github.io/`.
 2. Choose **HTML file** verification and download the file Google gives you.
 3. Put that file in this project's `public/` folder, then commit and push. After the deploy succeeds, click **Verify**.
-4. Open **Sitemaps** and submit `https://suarch-dev.github.io/sitemap.xml`.
+4. Open **Sitemaps** and submit `https://suarcho.github.io/sitemap.xml`.
 
 This helps your name and the site appear in search results when a recruiter searches for you.
 

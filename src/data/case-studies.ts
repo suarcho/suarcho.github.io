@@ -6,7 +6,7 @@ export const caseStudies = {
       eyebrow: 'PYTHON · SYSTEM UTILITIES · TELEGRAM API',
       summary:
         'A small, on-demand diagnostic script that checks local disk usage and sends a Telegram message when the configured threshold is exceeded.',
-      repo: 'https://github.com/suarch-dev/telegram-bot-notifier',
+      repo: 'https://github.com/suarcho/telegram-bot-notifier',
       repoLabel: 'View source on GitHub',
       backLabel: 'Back to portfolio',
       status: 'LEARNING PROJECT · RUNS ON DEMAND',
@@ -43,7 +43,7 @@ export const caseStudies = {
       eyebrow: 'PYTHON · UTILIDADES DE SISTEMA · TELEGRAM API',
       summary:
         'Un pequeño script de diagnóstico, ejecutado bajo demanda, que comprueba el uso del disco local y envía un mensaje de Telegram cuando se supera el umbral configurado.',
-      repo: 'https://github.com/suarch-dev/telegram-bot-notifier',
+      repo: 'https://github.com/suarcho/telegram-bot-notifier',
       repoLabel: 'Ver código en GitHub',
       backLabel: 'Volver al portfolio',
       status: 'PROYECTO DE APRENDIZAJE · EJECUCIÓN BAJO DEMANDA',
@@ -82,7 +82,7 @@ export const caseStudies = {
       eyebrow: 'DOCKER · COMPOSE · VOLUMES',
       summary:
         'A sequence of five public exercises, ending with a Flask application whose visit logs persist outside the container lifecycle.',
-      repo: 'https://github.com/suarch-dev/platform-labs/tree/main/docker-labs',
+      repo: 'https://github.com/suarcho/platform-labs/tree/main/docker-labs',
       repoLabel: 'View Docker labs on GitHub',
       backLabel: 'Back to portfolio',
       status: 'COMPLETED LEARNING TRACK · FIVE EXERCISES',
@@ -119,7 +119,7 @@ export const caseStudies = {
       eyebrow: 'DOCKER · COMPOSE · VOLÚMENES',
       summary:
         'Cinco ejercicios públicos que terminan con una aplicación Flask cuyos logs de visitas sobreviven al ciclo de vida del contenedor.',
-      repo: 'https://github.com/suarch-dev/platform-labs/tree/main/docker-labs',
+      repo: 'https://github.com/suarcho/platform-labs/tree/main/docker-labs',
       repoLabel: 'Ver prácticas Docker en GitHub',
       backLabel: 'Volver al portfolio',
       status: 'ITINERARIO COMPLETADO · CINCO EJERCICIOS',
