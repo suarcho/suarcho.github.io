@@ -173,7 +173,7 @@ async function writeCv(locale, cv) {
   document.moveDown(0.22);
   document.font('Helvetica-Bold').fontSize(9.2).fillColor(colors.accent).text(cv.headline, { width: innerWidth });
   document.moveDown(0.5);
-  const contact = `${cv.location}  ·  ${cv.email}  ·  ${cv.linkedin}  ·  ${cv.github}`;
+  const contact = `${cv.location}  ·  ${cv.email}  ·  ${cv.website}  ·  ${cv.linkedin}  ·  ${cv.github}`;
   bodyText(contact, { fontSize: 7.1, color: colors.muted, after: 2 });
 
   sectionHeading(locale === 'en' ? 'Profile' : 'Perfil profesional');

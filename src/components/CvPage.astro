@@ -54,6 +54,7 @@ const pdfHref = locale === 'en' ? '/cv/arnold-chuctaya-en.pdf' : '/cv/arnold-chu
           <address>
             <span>{data.location}</span>
             <a href={`mailto:${data.email}`}>{data.email}</a>
+            <a href={`https://${data.website}`} target="_blank" rel="noreferrer">{data.website}</a>
             <a href={`https://${data.linkedin}`} target="_blank" rel="noreferrer">{data.linkedin}</a>
             <a href={`https://${data.github}`} target="_blank" rel="noreferrer">{data.github}</a>
           </address>
