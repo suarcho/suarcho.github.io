@@ -64,5 +64,5 @@ The deployment target is the GitHub user Pages repository **`suarch-dev.github.i
 - The older CV's phone number and prior email are not copied into this site or generated PDFs.
 - The AWS entry is intentionally labelled introductory.
 - The alert bot is described as on-demand, not as a continuously running monitoring service.
-- The one-year break in the Grupo Amazing date range is reflected in the user's supplied **5.8 years cumulative experience** figure.
+- The one-year break in the Grupo Amazing date range is still visible in the dates; the site uses the broader **5+ years cumulative experience** figure.
 - The hero uses Arnold's original supplied portrait; the photo is not AI-generated or background-removed.

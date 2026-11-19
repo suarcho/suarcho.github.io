@@ -15,7 +15,7 @@ export const portfolio = {
     meta: {
       title: 'Arnold Chuctaya Sevincha — IT Support, VoIP & Platform Engineering',
       description:
-        'IT support and VoIP professional in Madrid with 5.8 years of cumulative experience. Networking, incident response and a hands-on path toward Platform Engineering.',
+        'IT support and VoIP professional in Madrid with 5+ years of cumulative experience. Networking, incident response and a hands-on path toward Platform Engineering.',
     },
     nav: [
       { label: 'Profile', href: '#profile' },
@@ -35,14 +35,14 @@ export const portfolio = {
         { text: 'what runs them.', accent: true },
       ],
       description:
-        '5.8 years of hands-on VoIP, data-network and technical-support experience. Building toward Platform Engineering through practical work in Linux, Python, Docker, CI/CD and cloud.',
+        '5+ years of hands-on VoIP, data-network and technical-support experience. Building toward Platform Engineering through practical work in Linux, Python, Docker, CI/CD and cloud.',
       primaryCta: 'Explore my work',
       secondaryCta: 'View my CV',
       availability: 'Available for immediate start · On-site or hybrid',
       portraitAlt: 'Portrait of Arnold Chuctaya Sevincha',
       focusLabel: 'CURRENT FOCUS',
       focusValue: 'Linux + networking',
-      metricYears: '5.8 years',
+      metricYears: '5+ years',
       metricYearsLabel: 'cumulative support experience',
       metricProjects: '2 tracks',
       metricProjectsLabel: 'Python + Docker completed',
@@ -87,7 +87,7 @@ export const portfolio = {
       roles: [
         {
           period: '01/2018 — 10/2024',
-          duration: '5.8 years cumulative',
+          duration: '5+ years cumulative',
           company: 'Grupo Amazing',
           role: 'VoIP & Data Technical Support',
           place: 'Madrid, Spain',
@@ -317,7 +317,7 @@ export const portfolio = {
     meta: {
       title: 'Arnold Chuctaya Sevincha — Soporte TI, VoIP e Ingeniería de Plataformas',
       description:
-        'Profesional de soporte TI y VoIP en Madrid con 5,8 años de experiencia acumulada. Redes, resolución de incidencias y aprendizaje práctico hacia Platform Engineering.',
+        'Profesional de soporte TI y VoIP en Madrid con 5+ años de experiencia acumulada. Redes, resolución de incidencias y aprendizaje práctico hacia Platform Engineering.',
     },
     nav: [
       { label: 'Perfil', href: '#profile' },
@@ -337,14 +337,14 @@ export const portfolio = {
         { text: 'lo que los sostiene.', accent: true },
       ],
       description:
-        '5,8 años de experiencia acumulada en soporte técnico, VoIP y redes de datos. Avanzo hacia Platform Engineering con práctica en Linux, Python, Docker, CI/CD y cloud.',
+        '5+ años de experiencia acumulada en soporte técnico, VoIP y redes de datos. Avanzo hacia Platform Engineering con práctica en Linux, Python, Docker, CI/CD y cloud.',
       primaryCta: 'Ver mis proyectos',
       secondaryCta: 'Ver mi CV',
       availability: 'Incorporación inmediata · Presencial o híbrido',
       portraitAlt: 'Retrato de Arnold Chuctaya Sevincha',
       focusLabel: 'FOCO ACTUAL',
       focusValue: 'Linux + redes',
-      metricYears: '5,8 años',
+      metricYears: '5+ años',
       metricYearsLabel: 'de experiencia acumulada en soporte',
       metricProjects: '2 bloques',
       metricProjectsLabel: 'Python + Docker completados',
@@ -389,7 +389,7 @@ export const portfolio = {
       roles: [
         {
           period: '01/2018 — 10/2024',
-          duration: '5,8 años acumulados',
+          duration: '5+ años acumulados',
           company: 'Grupo Amazing',
           role: 'Servicio técnico de VoIP y datos',
           place: 'Madrid, España',
