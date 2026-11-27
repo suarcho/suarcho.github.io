@@ -60,7 +60,7 @@ The deployment target is the GitHub user Pages repository **`suarchops.github.io
 
 ## Privacy and accuracy
 
-- Public contact: `suarch.dev@gmail.com`, LinkedIn and GitHub.
+- Public contact: `arnold5233@gmail.com`, LinkedIn and GitHub.
 - The older CV's phone number and prior email are not copied into this site or generated PDFs.
 - The AWS entry is intentionally labelled introductory.
 - The alert bot is described as on-demand, not as a continuously running monitoring service.
