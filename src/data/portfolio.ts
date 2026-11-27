@@ -138,7 +138,7 @@ export const portfolio = {
           description:
             'An on-demand Python script checks disk usage on my Mac and sends a Telegram alert when it crosses a threshold. It uses subprocess, logging and environment-based secrets.',
           tags: ['Python', 'subprocess', 'Telegram Bot API', 'logging'],
-          repo: 'https://github.com/suarcho/telegram-bot-notifier',
+          repo: 'https://github.com/suarchops/telegram-bot-notifier',
           caseHref: '/projects/telegram-disk-alert/',
           mark: 'df → alert',
           accent: 'orange',
@@ -150,7 +150,7 @@ export const portfolio = {
           description:
             'A five-exercise Docker track that ends with a Flask app writing visit logs to persistent storage. The repository also includes a Flask + Redis Compose exercise.',
           tags: ['Dockerfile', 'Docker Compose', 'Flask', 'Volumes'],
-          repo: 'https://github.com/suarcho/platform-labs/tree/main/docker-labs',
+          repo: 'https://github.com/suarchops/platform-labs/tree/main/02-docker-labs',
           caseHref: '/projects/docker-persistent-logs/',
           mark: 'app → volume',
           accent: 'yellow',
@@ -159,7 +159,7 @@ export const portfolio = {
       noteLabel: 'MORE EXERCISES',
       noteText: 'Python fundamentals, API requests and system utilities live in my public labs repository.',
       noteLink: 'Open platform-labs',
-      noteHref: 'https://github.com/suarcho/platform-labs',
+      noteHref: 'https://github.com/suarchops/platform-labs',
     },
     route: {
       eyebrow: '04 / LEARNING ROUTE',
@@ -176,7 +176,7 @@ export const portfolio = {
           status: 'complete',
           body: 'APIs, JSON, subprocess, files, exceptions and logging; includes a Telegram alert project.',
           proof: 'View Python labs',
-          href: 'https://github.com/suarcho/platform-labs/tree/main/python-labs',
+          href: 'https://github.com/suarchops/platform-labs/tree/main/01-python-labs',
         },
         {
           step: '02',
@@ -184,7 +184,7 @@ export const portfolio = {
           status: 'complete',
           body: 'Images, ports, volumes, Flask, Docker Compose and a persistent-log final exercise.',
           proof: 'View Docker labs',
-          href: 'https://github.com/suarcho/platform-labs/tree/main/docker-labs',
+          href: 'https://github.com/suarchops/platform-labs/tree/main/02-docker-labs',
         },
         {
           step: '03',
@@ -292,8 +292,8 @@ export const portfolio = {
       githubLabel: 'BROWSE MY GITHUB',
       email: 'suarch.dev@gmail.com',
       emailHref: 'mailto:suarch.dev@gmail.com',
-      linkedin: 'https://www.linkedin.com/in/arnoldcs97/',
-      github: 'https://github.com/suarcho',
+      linkedin: 'https://www.linkedin.com/in/arnold-chs/',
+      github: 'https://github.com/suarchops',
       cvLabel: 'Download CV (English)',
       cvHref: '/cv/arnold-chuctaya-en.pdf',
     },
@@ -440,7 +440,7 @@ export const portfolio = {
           description:
             'Un script de Python ejecutado bajo demanda comprueba el uso de disco en mi Mac y envía una alerta por Telegram al superar un umbral. Usa subprocess, logging y secretos mediante variables de entorno.',
           tags: ['Python', 'subprocess', 'Telegram Bot API', 'logging'],
-          repo: 'https://github.com/suarcho/telegram-bot-notifier',
+          repo: 'https://github.com/suarchops/telegram-bot-notifier',
           caseHref: '/es/proyectos/alerta-uso-disco/',
           mark: 'df → alerta',
           accent: 'orange',
@@ -452,7 +452,7 @@ export const portfolio = {
           description:
             'Cinco ejercicios de Docker que terminan con una app Flask que guarda logs de visitas en almacenamiento persistente. El repositorio también incluye un ejercicio Compose con Flask y Redis.',
           tags: ['Dockerfile', 'Docker Compose', 'Flask', 'Volúmenes'],
-          repo: 'https://github.com/suarcho/platform-labs/tree/main/docker-labs',
+          repo: 'https://github.com/suarchops/platform-labs/tree/main/02-docker-labs',
           caseHref: '/es/proyectos/logs-persistentes-docker/',
           mark: 'app → volumen',
           accent: 'yellow',
@@ -461,7 +461,7 @@ export const portfolio = {
       noteLabel: 'MÁS EJERCICIOS',
       noteText: 'Los fundamentos de Python, las APIs y las utilidades de sistema están en mi repositorio público de prácticas.',
       noteLink: 'Abrir platform-labs',
-      noteHref: 'https://github.com/suarcho/platform-labs',
+      noteHref: 'https://github.com/suarchops/platform-labs',
     },
     route: {
       eyebrow: '04 / RUTA DE APRENDIZAJE',
@@ -478,7 +478,7 @@ export const portfolio = {
           status: 'complete',
           body: 'APIs, JSON, subprocess, archivos, excepciones y logging; incluye un bot de alertas por Telegram.',
           proof: 'Ver prácticas de Python',
-          href: 'https://github.com/suarcho/platform-labs/tree/main/python-labs',
+          href: 'https://github.com/suarchops/platform-labs/tree/main/01-python-labs',
         },
         {
           step: '02',
@@ -486,7 +486,7 @@ export const portfolio = {
           status: 'complete',
           body: 'Imágenes, puertos, volúmenes, Flask, Docker Compose y un ejercicio final con logs persistentes.',
           proof: 'Ver prácticas de Docker',
-          href: 'https://github.com/suarcho/platform-labs/tree/main/docker-labs',
+          href: 'https://github.com/suarchops/platform-labs/tree/main/02-docker-labs',
         },
         {
           step: '03',
@@ -594,8 +594,8 @@ export const portfolio = {
       githubLabel: 'VER MI GITHUB',
       email: 'suarch.dev@gmail.com',
       emailHref: 'mailto:suarch.dev@gmail.com',
-      linkedin: 'https://www.linkedin.com/in/arnoldcs97/',
-      github: 'https://github.com/suarcho',
+      linkedin: 'https://www.linkedin.com/in/arnold-chs/',
+      github: 'https://github.com/suarchops',
       cvLabel: 'Descargar CV (español)',
       cvHref: '/cv/arnold-chuctaya-es.pdf',
     },

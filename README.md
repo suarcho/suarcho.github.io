@@ -56,7 +56,7 @@ Keep learning status accurate. Python and Docker are completed; Linux and networ
 
 The workflow lives at `.github/workflows/pages.yml`. It runs checks and builds on pull requests; pushes to `main` also deploy to GitHub Pages.
 
-The deployment target is the GitHub user Pages repository **`suarcho.github.io`**, with `https://suarcho.github.io/` as the initial public address. Set **Settings → Pages → Source → GitHub Actions** if GitHub asks for a publishing source. First-deployment and `suarch.is-a.dev` setup steps are in [`docs/domain-setup.md`](docs/domain-setup.md). The custom domain is not assumed to be approved, and no `CNAME` is included until it is.
+The deployment target is the GitHub user Pages repository **`suarchops.github.io`**, with `https://suarchops.github.io/` as the initial public address. Set **Settings → Pages → Source → GitHub Actions** if GitHub asks for a publishing source. First-deployment and `suarch.is-a.dev` setup steps are in [`docs/domain-setup.md`](docs/domain-setup.md). The custom domain is not assumed to be approved, and no `CNAME` is included until it is.
 
 ## Privacy and accuracy
 
